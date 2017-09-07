@@ -8,6 +8,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 h1, h2, h3, h4, h5, h6 {
 	color: rgb(107, 107, 132);
+	text-align: center;
 }
 body {
 	font-family: Verdana, Geneva, sans-serif;
@@ -20,16 +21,18 @@ body {
 	line-height: 1.8;
 }
 h1 {
-	font: 1.6em Verdana, Geneva, sans-serif;
+	font: 1em Verdana, Geneva, sans-serif;
 	margin-bottom: .4em;
-	color: rgb(83, 104, 138);
+	color: navy;
 }
 h2 {
 	font: 3.2em Georgia, "Times New Roman", Times, serif;
 	margin-bottom: .2em;
+	text-align: center;
 }
 h3 {
-	font-size: 1.2em;
+	font-size: 1.6em;
+	text-align: 
 }
 p {
 	margin-bottom: 1em;
