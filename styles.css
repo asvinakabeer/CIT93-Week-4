@@ -1,5 +1,5 @@
 tml, body {
-	background: #663399; /* Beccapurple */
+	background: #63399; /* Beccapurple */
 	margin: 0;
 }
 h1, h2, h3, h4, h5, h6, p {
@@ -16,7 +16,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	padding: 2.5% 2.5% 0;
-	background: white;
+	background: lightcyan;
 	line-height: 1.8;
 }
 h1 {
