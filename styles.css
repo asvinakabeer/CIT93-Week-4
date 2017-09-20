@@ -19,7 +19,6 @@ body {
 	padding: 2.5% 2.5% 0;
 	background: #FFFFE9;
 	line-height: 1.8;
-	cursor:url("cookiecursor.png");
 }
 h1 {
 	font: 1em Verdana, Geneva, sans-serif;
@@ -117,3 +116,7 @@ blockquote {
 	margin-right: 10px;
 }
 
+
+.module {
+	cursor: url('cookiecursor.png'), auto;	
+  }
