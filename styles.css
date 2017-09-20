@@ -118,5 +118,5 @@ blockquote {
 
 
 .module {
-	cursor: url('cookiecursor.png'), auto;	
+	cursor: url('cookiecursor.png');	
   }
